@@ -1,15 +1,39 @@
-<h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">A passionate developer from Canada</h3>
+# Hi, I’m Ahmet 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aebuy" alt="aebuy" /></a> </p>
+I’m a Software Engineering (Co-op) student at the University of Ottawa with a strong interest in backend systems, low-level programming, and AI-assisted developer tools. I enjoy working close to the system while still thinking about scalability, clarity, and developer experience.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/aebuyuktepe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aebuyuktepe" height="30" width="40" /></a>
-</p>
+I’ve worked in production environments, collaborated with cross-functional teams, and built software that prioritizes correctness, maintainability, and real-world usability.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+## Experience
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aebuy&" alt="aebuy" /></p>
+**Software Development Intern — Trend Micro**  
+During my internship at Trend Micro, I worked on backend and platform tooling focused on data ingestion, automation, and developer efficiency. I built Python-based data pipelines, contributed to an AI-assisted ticket resolution system using vector search and LLM context, and worked with Kubernetes, Helm, and cloud infrastructure. I also investigated data integrity issues across distributed systems and documented solutions for long-term maintainability.
+
+**Software Developer — MERGE Robotics (FRC)**  
+As part of an FRC robotics team, I developed Java software for competition robots over multiple seasons. This experience strengthened my understanding of real-time constraints, teamwork under pressure, and writing reliable software for hardware-integrated systems.
+
+---
+
+## Projects
+
+**Tutor Scheduling App (Android)**  
+An Android application that allows students to book tutoring sessions, tutors to manage availability, and administrators to approve and manage accounts. The project focuses on role-based workflows, clean object-oriented design, and reliable user interactions.
+
+**Memory Card Game (C++)**  
+A text-based memory card game for multiple players, built using modern C++ and object-oriented design. The game includes scoring, turn management, and multiple gameplay modes designed to keep the code extensible and easy to evolve.
+
+---
+
+## Tech & Tools
+
+I work primarily with Python, Java, and C++, and I’m comfortable across Linux environments, Git-based workflows, and containerized systems. I’ve used tools and technologies such as Docker, Kubernetes, Helm, Redis, SQL, vector databases, CI/CD pipelines, and cloud platforms in both academic and professional settings.
+
+---
+
+## Let’s Connect
+
+- 📧 Email: ahmetebuyuktepe@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/ahmetbuyuktepe  
+- 🧑‍💻 GitHub: https://github.com/aebuy
