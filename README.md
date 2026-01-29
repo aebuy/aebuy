@@ -1,39 +1,44 @@
 # Hi, I’m Ahmet 👋
 
-I’m a Software Engineering (Co-op) student at the University of Ottawa with a strong interest in backend systems, low-level programming, and AI-assisted developer tools. I enjoy working close to the system while still thinking about scalability, clarity, and developer experience.
+🎓 Software Engineering (Co-op) student at the University of Ottawa  
+💻 Backend · Systems · AI-assisted Developer Tools  
+🌍 English / French
 
-I’ve worked in production environments, collaborated with cross-functional teams, and built software that prioritizes correctness, maintainability, and real-world usability.
-
----
-
-## Experience
-
-**Software Development Intern — Trend Micro**  
-During my internship at Trend Micro, I worked on backend and platform tooling focused on data ingestion, automation, and developer efficiency. I built Python-based data pipelines, contributed to an AI-assisted ticket resolution system using vector search and LLM context, and worked with Kubernetes, Helm, and cloud infrastructure. I also investigated data integrity issues across distributed systems and documented solutions for long-term maintainability.
-
-**Software Developer — MERGE Robotics (FRC)**  
-As part of an FRC robotics team, I developed Java software for competition robots over multiple seasons. This experience strengthened my understanding of real-time constraints, teamwork under pressure, and writing reliable software for hardware-integrated systems.
+I enjoy working close to the system — building **reliable backend software**, **clean abstractions**, and **tools that actually help developers**. I care a lot about correctness, maintainability, and real-world usability.
 
 ---
 
-## Projects
+## 💼 Experience
 
-**Tutor Scheduling App (Android)**  
-An Android application that allows students to book tutoring sessions, tutors to manage availability, and administrators to approve and manage accounts. The project focuses on role-based workflows, clean object-oriented design, and reliable user interactions.
+**Software Development Intern — Trend Micro** 🛡️  
+Worked on backend and platform tooling around data ingestion, automation, and developer productivity. Built Python data pipelines, contributed to an AI-assisted ticket resolution system using vector search + LLM context, and worked with Kubernetes, Helm, and cloud infrastructure. Also dug into data integrity issues across distributed systems and documented long-term fixes.
 
-**Memory Card Game (C++)**  
-A text-based memory card game for multiple players, built using modern C++ and object-oriented design. The game includes scoring, turn management, and multiple gameplay modes designed to keep the code extensible and easy to evolve.
-
----
-
-## Tech & Tools
-
-I work primarily with Python, Java, and C++, and I’m comfortable across Linux environments, Git-based workflows, and containerized systems. I’ve used tools and technologies such as Docker, Kubernetes, Helm, Redis, SQL, vector databases, CI/CD pipelines, and cloud platforms in both academic and professional settings.
+**Software Developer — MERGE Robotics (FRC)** 🤖  
+Developed Java software for competitive robotics over multiple seasons. Learned how to write dependable software under real-time constraints while collaborating closely with a fast-moving team.
 
 ---
 
-## Let’s Connect
+## 🚀 Projects
 
-- 📧 Email: ahmetebuyuktepe@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/ahmetbuyuktepe  
-- 🧑‍💻 GitHub: https://github.com/aebuy
+**Tutor Scheduling App (Android)** 📱  
+An Android app for students, tutors, and admins with role-based workflows. Focused on clean OOP design, validation, and smooth user interactions.
+
+**Memory Card Game (C++)** 🃏  
+A multiplayer text-based card game built in modern C++. Includes scoring, turn management, and multiple game modes designed for extensibility.
+
+---
+
+## 🧰 Tech & Tools
+
+🐍 Python · ☕ Java · ⚙️ C++  
+🐧 Linux · 🐳 Docker · ☸️ Kubernetes · ⚓ Helm  
+🗄️ Redis · SQL · Vector Databases  
+🔁 Git · CI/CD · Cloud Platforms
+
+---
+
+## 🤝 Let’s Connect
+
+📧 **Email:** ahmetebuyuktepe@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/ahmetbuyuktepe  
+🧑‍💻 **GitHub:** https://github.com/aebuy
